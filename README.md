@@ -1,4 +1,4 @@
-# test-angular-update-model-and-view
+# test-angularjs-update-model-and-view
 
 Check which layer will be quicker updated.
 
