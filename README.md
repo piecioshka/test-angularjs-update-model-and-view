@@ -1,19 +1,20 @@
 # test-angularjs-update-model-and-view
 
-Check which layer will be quicker updated.
+Check which layer will be updated faster.
+
+## Motivation
 
 My tests said that `model` is first updated, next `view`.
 
-## How to setup?
+## Setup
 
-0. Install dependencies. 
+1. Install dependencies
 
-    ```
+    ```bash
     npm install
     ```
     
-1. Open `app/index.html` in browser.
-2. Open `DevTools` and switch to `Console` tab.
-3. Put any char to input.
-
-In console you will see results.
+2. Open `app/index.html` in browser
+3. Open `DevTools` and switch to `Console` tab
+4. Type somethin into a input in the app
+5. Observe results in DevTools Console
