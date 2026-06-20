@@ -18,3 +18,7 @@ My tests said that `model` is first updated, next `view`.
 3. Open `DevTools` and switch to `Console` tab
 4. Type somethin into a input in the app
 5. Observe results in DevTools Console
+
+## License
+
+[The MIT License](http://piecioshka.mit-license.org) @ 2026
